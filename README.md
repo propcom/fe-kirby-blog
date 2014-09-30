@@ -1,4 +1,4 @@
-KirbyCMS propBlog v0.1.1
+KirbyCMS propBlog v0.1.2
 ===========
 
 API with blog page to pull latest blog posts via AJAX. Drop in Isotope and everything becomes pretty.
@@ -12,5 +12,6 @@ Usage -
 
 ===========
 
+V0.1.2 - PPM - Things are hard
 V0.1.1 - PPM - Added in Propeller Package Manager json. This should automate shwizzle. 
 V0.1 - API with pagination, AJAX jQuery code to pull in from API and blog page to display this.

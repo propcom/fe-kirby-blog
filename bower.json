@@ -30,14 +30,14 @@
     ],
 
     "install" : {
-        "/assets/js/modules/kirbyBlogAjax.js" : "httpdocs/assets/js/modules/kirbyBlogAjax.js",
-        "/content/blog-api/blog-api.txt" : "httpdocs/content/blog-api/blog-api.txt",
-        "/content/blog/blog.txt" : "httpdocs/content/blog/blog.txt",
-        "/site/cms/blueprints/blog.php" : "httpdocs/site/cms/blueprints/blog.php",
-        "/site/cms/blueprints/blogpost.php" : "httpdocs/site/cms/blueprints/blogpost.php",
-        "/site/snippets/latestpost.php" : "httpdocs/site/snippets/latestpost.php",
-        "/site/templates/blog.php" : "httpdocs/site/templates/blog.php",
-        "/site/templates/blog-api.php" : "httpdocs/site/templates/blog-api.php"
+        "/assets/js/modules/kirbyBlogAjax.js" : "httpdocs/assets/js/modules/",
+        "/content/blog-api/blog-api.txt" : "httpdocs/content/blog-api/",
+        "/content/blog/blog.txt" : "httpdocs/content/blog/",
+        "/site/cms/blueprints/blog.php" : "httpdocs/site/cms/blueprints/",
+        "/site/cms/blueprints/blogpost.php" : "httpdocs/site/cms/blueprints/",
+        "/site/snippets/latestpost.php" : "httpdocs/site/snippets/",
+        "/site/templates/blog.php" : "httpdocs/site/templates/",
+        "/site/templates/blog-api.php" : "httpdocs/site/templates/"
     }
 
 }
