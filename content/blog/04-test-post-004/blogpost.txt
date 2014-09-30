@@ -1,0 +1,25 @@
+﻿Title: Test Post 004
+
+----
+
+Seo_title: 
+
+----
+
+Seo_keywords: 
+
+----
+
+Seo_description: 
+
+----
+
+Tags: Food
+
+----
+
+Pub_date: 19.09.2014
+
+----
+
+Text: Test Post 4

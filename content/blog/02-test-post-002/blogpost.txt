@@ -1,0 +1,29 @@
+﻿Title: Test Post 002
+
+----
+
+Seo_title: 
+
+----
+
+Seo_keywords: 
+
+----
+
+Seo_description: 
+
+----
+
+Frontpage: on
+
+----
+
+Tags: Food
+
+----
+
+Pub_date: 
+
+----
+
+Text: Test Post 2

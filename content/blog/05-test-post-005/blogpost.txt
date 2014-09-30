@@ -1,0 +1,25 @@
+﻿Title: Test Post 005
+
+----
+
+Seo_title: Yuma Sushi - Post 5
+
+----
+
+Seo_keywords: 
+
+----
+
+Seo_description: 
+
+----
+
+Tags: Chefs
+
+----
+
+Pub_date: 23.09.2014
+
+----
+
+Text: Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.

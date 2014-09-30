@@ -1,0 +1,35 @@
+﻿Title: Test Post 012
+
+----
+
+Seo_title: 
+
+----
+
+Seo_keywords: 
+
+----
+
+Seo_description: 
+
+----
+
+Frontpage: on
+
+----
+
+Tags: Our Shop
+
+----
+
+Pub_date: 24/09/2014
+
+----
+
+Text: Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.
+
+Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.
+
+Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.
+
+Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.

@@ -1,0 +1,33 @@
+﻿Title: First Post <3
+
+----
+
+Seo_title: Yuma Sushi - First Ever post
+
+----
+
+Seo_keywords: 
+
+----
+
+Seo_description: 
+
+----
+
+Fontpage: on
+
+----
+
+Tags: Food
+
+----
+
+Pub_date: 23.09.2014
+
+----
+
+Text: This is a tribute...
+
+Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+
+Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
