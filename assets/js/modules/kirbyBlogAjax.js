@@ -48,7 +48,7 @@
 
 								// render the boxes
 								var newItem = '<article class="blog__post blog__post--' + postNum + ' blog__post--' + postData.tag + '"><div class="blog__post--tags">' +
-								'<img src="/assets/img/tag.png" alt="Tags" /> ' + postData.tag + '</div>';
+								postData.tag + '</div>';
 
 								if(postData.images) {
 									newItem += '<div class="blog__post--img">' +
