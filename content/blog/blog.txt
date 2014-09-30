@@ -1,0 +1,17 @@
+﻿Title: Blog
+
+----
+
+Seo_title: Title
+
+----
+
+Seo_keywords: SEO Keywords
+
+----
+
+Seo_description: SEO Description
+
+----
+
+Text: This is a blog page... Below are your blog posts...
